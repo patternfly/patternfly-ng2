@@ -191,7 +191,7 @@
     "rollup-plugin-uglify": "4.0.0",
     "rxjs": "6.2.2",
     "rxjs-compat": "6.2.2",
-    "semantic-release": "15.8.1",
+    "semantic-release": "17.2.3",
     "source-map-loader": "0.2.3",
     "style-loader": "0.21.0",
     "stylelint": "9.4.0",
